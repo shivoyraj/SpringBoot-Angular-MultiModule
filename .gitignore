@@ -7,3 +7,4 @@ org-app-ui/target
 org-app-ui/package-lock.json
 org-app-security/.mvn/
 org-app-security/target
+.idea
